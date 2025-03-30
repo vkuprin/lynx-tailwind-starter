@@ -4,11 +4,8 @@
 
 A starter template for building Lynx applications with Tailwind CSS integration. This template provides a solid foundation for creating beautiful, responsive mobile applications using the power of Tailwind's utility-first CSS framework.
 
-## Prerequisites
-
-- Node.js 18 or later
-- Yarn, npm, or pnpm package manager
-- LynxExplorer App installed on your mobile device
+## Tailwind bugs related
+https://github.com/lynx-family/lynx/issues/356
 
 ## Getting Started
 
