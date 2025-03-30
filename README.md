@@ -63,22 +63,6 @@ You can use Tailwind utility classes directly in your components:
 </view>
 ```
 
-## Project Structure
-
-```
-├── src/
-│   ├── assets/           # Images and other static assets
-│   ├── App.tsx           # Main application component
-│   ├── index.tsx         # Entry point
-│   ├── tailwind.css      # Tailwind directives and custom styles
-│   └── rspeedy-env.d.ts  # TypeScript declarations
-├── lynx.config.ts        # Lynx build configuration
-├── postcss.config.js     # PostCSS configuration
-├── tailwind.config.js    # Tailwind CSS configuration
-├── tsconfig.json         # TypeScript configuration
-└── package.json          # Project dependencies and scripts
-```
-
 ## How to Set Up Tailwind CSS in a New Lynx Project
 
 If you want to add Tailwind CSS to an existing Lynx project, follow these steps:
