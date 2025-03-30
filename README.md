@@ -14,16 +14,12 @@ A starter template for building Lynx applications with Tailwind CSS integration.
 
 ### Installation
 
-1. Clone this repository or use it as a template:
+1. Clone this repository or use it as a github template:
 
 ```bash
 # Clone the repository
 git clone https://github.com/vkuprin/lynx-tailwind-starter.git
 cd lynx-tailwind-starter
-
-# Or create a new project using this template
-npx create-rspeedy my-app --template lynx-tailwind-starter
-cd my-app
 ```
 
 2. Install the dependencies:
