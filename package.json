@@ -1,6 +1,16 @@
 {
-  "name": "meetaem",
+  "name": "lynx-tailwind-starter",
   "version": "1.0.0",
+  "description": "A starter template for Lynx applications with Tailwind CSS integration",
+  "keywords": [
+    "lynx",
+    "tailwind",
+    "css",
+    "mobile",
+    "react",
+    "starter",
+    "template"
+  ],
   "type": "module",
   "scripts": {
     "build": "rspeedy build",
@@ -9,7 +19,9 @@
     "preview": "rspeedy preview"
   },
   "dependencies": {
-    "@lynx-js/react": "^0.106.1"
+    "@lynx-js/react": "^0.106.1",
+    "@lynx-js/tailwind-preset-canary": "^0.1.0-canary-20250328-d7301017",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
     "@lynx-js/qrcode-rsbuild-plugin": "^0.3.4",
@@ -17,6 +29,9 @@
     "@lynx-js/rspeedy": "^0.8.6",
     "@lynx-js/types": "^3.2.0",
     "@types/react": "^18.3.20",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "postcss-loader": "^8.1.1",
     "prettier": "^3.5.2",
     "typescript": "~5.7.3"
   },
